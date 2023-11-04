@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+            position: relative;
+        }
+
+        .nav {
+            width: 30vw;
+            height: 50vh;
+            background-color: red;
+            position: absolute;
+            top: -55vh;
+        }
+
+        .slide-in-top {
+            -webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+            animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+        }
+
+        @keyframes slide-in-top {
+            0% {
+                -webkit-transform: translateY(-1000px);
+                transform: translateY(-1000px);
+                opacity: 0;
+            }
+
+            100% {
+                -webkit-transform: translateY(0);
+                transform: translateY(150%);
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <button id="slide">slideDown</button>
+
+    <div class="main">
+        <div class="nav" id="navs">
+
+        </div>
+
+    </div>
+<script>
+
+let slide = document.getElementById('slide')
+let navs = document.getElementById('navs')
+
+
+const slideDown = () => {
+    navs.classList.toggle('slide-in-top')
+}
+slide.addEventListener('click', slideDown)
+</script>
+</body>
+
+</html>

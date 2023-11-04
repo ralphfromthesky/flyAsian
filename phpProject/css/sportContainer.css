@@ -1,0 +1,133 @@
+        /* Defines the width of the carousel and centers it on the page */
+        .slick-carousel {
+            margin: 0 auto;
+            width: inherit;
+        }
+
+
+        /* The width of each slide */
+        .slick-slide {
+            width: 100%;
+        }
+
+        /* Color of the arrows */
+        .slick-next::before,
+        .slick-prev::before {
+            color: rgb(146, 139, 139) !important;
+            font-size: 20px !important;
+        }
+
+        .slick-next::before {
+            right: 0 !important;
+        }
+
+        .sport-header-container {
+            display: flex;
+            justify-content: center;
+            position: relative;
+        }
+
+        .sport-header-container #arrow {
+            height: 4vh;
+        }
+
+        .sport-header-container img {
+            height: 6vh;
+        }
+        .sport-header-container::before {
+            content: "SPORT Game";
+            position: absolute;
+            top: 17px; 
+            left: 34vw; 
+            color: #fff;
+        }
+ 
+        .sportDivs {
+            background-image: url('/images/logo32.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            display: flex !important;
+            margin: 20px 20px 20px 0;
+            box-shadow: 0 0 12px 0 rgba(0, 0, 0, .2);
+        }
+
+        .sports-image img {
+            height: 28vh;
+            width: 100%;
+        }
+
+        .sport-detail {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            padding-left: 15px;
+        }
+
+        .sport-detail img {
+            height: 50px;
+            margin-top: 20px;
+        }
+
+        .sport-detail h1 {
+            margin: 10px 0;
+            font-size: 1.5vw;
+
+        }
+
+        .sport-detail button {
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 20px;
+            color: white;
+            background-image: linear-gradient(105deg, #7146ff, #4a69ff);
+            transition: .3s ease;
+
+        }
+
+        .sportDivs:hover button {
+            animation: heartbeat 1.5s ease-in-out infinite both;
+        }
+
+        .sportDivs:hover .sports-image img {
+            animation: heartbeat 1.5s ease-in-out infinite both;
+        }
+
+
+        @keyframes heartbeat {
+            from {
+                -webkit-transform: scale(1);
+                transform: scale(1);
+                -webkit-transform-origin: center center;
+                transform-origin: center center;
+                -webkit-animation-timing-function: ease-out;
+                animation-timing-function: ease-out;
+            }
+
+            10% {
+                -webkit-transform: scale(0.91);
+                transform: scale(0.91);
+                -webkit-animation-timing-function: ease-in;
+                animation-timing-function: ease-in;
+            }
+
+            17% {
+                -webkit-transform: scale(0.98);
+                transform: scale(0.98);
+                -webkit-animation-timing-function: ease-out;
+                animation-timing-function: ease-out;
+            }
+
+            33% {
+                -webkit-transform: scale(0.87);
+                transform: scale(0.87);
+                -webkit-animation-timing-function: ease-in;
+                animation-timing-function: ease-in;
+            }
+
+            45% {
+                -webkit-transform: scale(1);
+                transform: scale(1);
+                -webkit-animation-timing-function: ease-out;
+                animation-timing-function: ease-out;
+            }
+        }

@@ -1,0 +1,24 @@
+.main-appDownload-container {
+    background-image: url("/images/logo26.png");
+    background-position: center left;
+    background-size: cover;
+    height: 40vh;
+    margin-bottom: 20px;
+    color: white;
+}
+.QRcode-container img {
+    height: 15vh;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.QRcode-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.QR1, .QR2 {
+    text-align: center;
+}
+.appDownload-container h5 {
+    font-weight: 400;
+}

@@ -1,0 +1,81 @@
+
+.header-container {
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+padding: 15px 0;
+}
+
+
+
+.logoBrand {
+    display: flex;
+    align-items: center;
+}
+
+.logoBrand img {
+    height: 70px;
+}
+
+.logInDetail2 ul {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.logInDetail2 ul li {
+    list-style: none;
+    white-space: nowrap;
+    padding: 7px;
+    margin-right: 5px;
+}
+
+#headerBtn {
+    background-color: #1e222c;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+.logInDetail2 .material-symbols-outlined{
+    padding-right: 5px;
+}
+.logInDetail2 ul {
+    display: flex;
+}
+
+.logInDetail3 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.buttonLogin {
+    display: flex;
+}
+
+.buttonLogin button {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    background-color: #1e222c;
+    color: white;
+    border-radius: 15px;
+    padding: 4px;
+    border: 2px solid #5b7cfe;
+}
+button .material-symbols-outlined{
+    color: #5b7cfe;
+    padding-right: 5px;
+}
+input::placeholder {
+    color: rgb(185, 182, 182);
+}
+.logInDetail3 input {
+    background-color: #1e222c;
+    height: 3vh;
+    width: 12vw;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}

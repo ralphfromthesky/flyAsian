@@ -1,0 +1,55 @@
+.main-subHeader-container {
+    background-color: #1e222c;
+    color: #5b7cfe;
+
+}
+
+.subHeader-container {
+    padding: 15px;
+    position: relative;
+}
+
+.subHeader-container img {
+    position: absolute;
+    height: 30px;
+    top: 0;
+    right: 3vw;
+    transform-origin: top center;
+    animation: wobble-hor-top 2s ease-in-out infinite;
+}
+
+.subHeader-container:hover {
+    background-color: #5C59FF;
+    border: 1px solid white;
+    color: white;
+}
+
+.subHeader-container h4 {
+    white-space: nowrap;
+}
+
+#hot {
+    animation: wobble-hor-top 3s infinite;
+}
+
+@keyframes wobble-hor-top {
+
+
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(45deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    75% {
+        transform: rotate(-30deg);
+    }
+
+
+}
