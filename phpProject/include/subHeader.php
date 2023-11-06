@@ -1,43 +1,44 @@
 <div class="main-subHeader-container">
     <div class="slick-carousel-subHeader">
         <div class="subHeader-container">
-            <h4>Home page</h4>
+            <h4> <i class="fa-solid fa-house"></i>
+                Home page</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Lottery</h4>
+            <h4><i class="fa-solid fa-bowling-ball"></i>Lottery</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Luckywin</h4>
+            <h4><i class="fa-solid fa-ticket"></i>Luckywin</h4>
             <img src="/images/hot.png" id="hot">
         </div>
         <div class="subHeader-container" id="hotContainer">
-            <h4>Casino</h4>
+            <h4><i class="fa-solid fa-circle-play"></i>Casino</h4>
             <img src="/images/hot.png" id="hot">
         </div>
         <div class="subHeader-container">
-            <h4>Sport </h4>
+            <h4><i class="fa-solid fa-baseball"></i>Sport </h4>
             <img src="/images/hot.png" id="hot">
         </div>
         <div class="subHeader-container">
-            <h4>Explode the jar</h4>
+            <h4><i class="fa-solid fa-slot-machine"></i>Explode the jar</h4>
         </div>
         <div class="subHeader-container">
-            <h4>shoot Fish</h4>
+            <h4><i class="fa-solid fa-fish-fins"></i>shoot Fish</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Card game</h4>
+            <h4> <i class="fa-solid fa-cards"></i>Card game</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Gamechicken</h4>
+            <h4> <i class="fa-solid fa-turkey"></i>Gamechicken</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Endow</h4>
+            <h4> <i class="fa-duotone fa-wallet"></i>Endow</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Agency</h4>
+            <h4> <i class="fa-solid fa-user"></i>Agency</h4>
         </div>
         <div class="subHeader-container">
-            <h4>Support</h4>
+            <h4> <i class="fa-sharp fa-solid fa-headset"></i>Support</h4>
         </div>
 
 

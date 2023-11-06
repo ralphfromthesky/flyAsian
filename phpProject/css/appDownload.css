@@ -5,6 +5,7 @@
     height: 40vh;
     margin-bottom: 20px;
     color: white;
+    padding-left: 13%;
 }
 .QRcode-container img {
     height: 15vh;

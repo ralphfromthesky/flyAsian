@@ -9,7 +9,8 @@
 
 .main-body-container {
     background-color: #292e3b;
-    padding: 0 13%;
+    /* padding: 0 13%; */
     color: #8491a5;
+    position: relative;
 
 }

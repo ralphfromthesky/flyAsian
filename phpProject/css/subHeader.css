@@ -1,12 +1,17 @@
 .main-subHeader-container {
     background-color: #1e222c;
     color: #5b7cfe;
+    padding: 0 13%;
 
 }
 
 .subHeader-container {
     padding: 15px;
     position: relative;
+    white-space: nowrap;
+}
+.subHeader-container i {
+padding-right: 5px;
 }
 
 .subHeader-container img {
@@ -35,7 +40,8 @@
 @keyframes wobble-hor-top {
 
 
-    0%, 100% {
+    0%,
+    100% {
         transform: rotate(0deg);
     }
 

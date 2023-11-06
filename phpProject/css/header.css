@@ -1,12 +1,12 @@
-
+.main-header {
+    padding: 0 13%;
+}
 .header-container {
     display: flex;
     display: flex;
     justify-content: space-between;
-padding: 15px 0;
+    padding: 15px 0;
 }
-
-
 
 .logoBrand {
     display: flex;
@@ -36,9 +36,11 @@ padding: 15px 0;
     display: flex;
     align-items: center;
 }
-.logInDetail2 .material-symbols-outlined{
+
+.logInDetail2 .material-symbols-outlined {
     padding-right: 5px;
 }
+
 .logInDetail2 ul {
     display: flex;
 }
@@ -64,13 +66,16 @@ padding: 15px 0;
     padding: 4px;
     border: 2px solid #5b7cfe;
 }
-button .material-symbols-outlined{
+
+button .material-symbols-outlined {
     color: #5b7cfe;
     padding-right: 5px;
 }
+
 input::placeholder {
     color: rgb(185, 182, 182);
 }
+
 .logInDetail3 input {
     background-color: #1e222c;
     height: 3vh;

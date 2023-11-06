@@ -1,4 +1,6 @@
-
+.main-footer-container {
+    padding: 0 13%;
+}
 .container-footer {
     width: 100%;
     text-align: center;
