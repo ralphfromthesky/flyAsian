@@ -1,0 +1,61 @@
+.main-cardGame-container {
+    padding: 0 13%;
+}
+.slick-carousel-cardGame {
+    display: flex;
+    justify-content: center;
+}
+.cardGame-container:hover .startPlaying-cardGame {
+    opacity: 1;
+}
+
+.cardGame-container {
+    position: relative;
+    text-align: center;
+    margin: 0 10px;
+    
+}
+
+.brand-cardGame img {
+    height: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.model-cardGame img {
+    height: 27vh;
+}
+
+.cardGame-container h4 {
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.cardGame-maximum {
+    margin-bottom: 20px;
+}
+.startPlaying-cardGame {
+    height: 5vh;
+    width: 8vw;
+    background-color: #409eff;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 15vh;
+    /* left: 2vw; */
+    opacity: 0;
+    cursor: pointer;
+}
+
+.startPlaying-cardGame i {
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+    color: gray;
+    margin-right: 5px;
+
+}

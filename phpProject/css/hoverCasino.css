@@ -1,0 +1,56 @@
+.main-hoverCasino-container {
+    padding: 0 13%;
+}
+.slick-carousel-hoverCasino {
+display: flex;
+}
+.model img {
+    height: 20vh;
+    padding: 20px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 50%;
+
+}
+
+.brandName img {
+    height: 5vh;
+}
+
+.hoverCasino-container {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.hoverCasino-container:hover .startPlaying {
+    opacity: 1;
+}
+
+.startPlaying {
+    height: 5vh;
+    width: 8vw;
+    background-color: #409eff;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 12vh;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.startPlaying i {
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+    color: gray;
+    margin-right: 5px;
+
+}
+.casino-label {
+    color: white;
+    margin-bottom: 20px;
+}

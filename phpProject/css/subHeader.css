@@ -4,7 +4,9 @@
     padding: 0 13%;
 
 }
-
+.slick-carousel-subHeader {
+    white-space: nowrap;
+}
 .subHeader-container {
     padding: 15px;
     position: relative;
@@ -30,7 +32,7 @@ padding-right: 5px;
 }
 
 .subHeader-container h4 {
-    white-space: nowrap;
+    font-size: 15px;
 }
 
 #hot {

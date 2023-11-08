@@ -6,9 +6,8 @@
     <div class="main-body-container">
         <?php include "include/header.php" ?>
         <?php include "include/subHeader.php" ?>
-        <div class="thisCarousel">
-            <?php include "include/carousel.php" ?>
-        </div>
+        <?php include "include/hover.php" ?>
+        <?php include "include/carousel.php" ?>
         <?php include "include/body.php" ?>
         <?php include "include/appDownload.php" ?>
         <?php include "include/footer.php" ?>

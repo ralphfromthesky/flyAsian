@@ -14,6 +14,13 @@
     <link rel="stylesheet" href="css/featuredGame.css">
     <link rel="stylesheet" href="css/subHeader.css">
     <link rel="stylesheet" href="css/carousel.css">
+    <link rel="stylesheet" href="css/hoverCasino.css">
+    <link rel="stylesheet" href="css/hoverSport.css">
+    <link rel="stylesheet" href="css/hoverCardGame.css">
+    <link rel="stylesheet" href="css/hoverFeaturedGame.css">
+    <link rel="stylesheet" href="css/hoverLottery.css">
+
+
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet"

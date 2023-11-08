@@ -1,0 +1,44 @@
+.main-lottery-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 13%;
+}
+
+.main-lottery-container h4 {
+    color: white;
+}
+
+.north-container {
+    line-height: 3;
+}
+
+.Sicbo-container {
+    line-height: 3;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    padding: 0 10%;
+
+}
+
+.southern-container {
+    line-height: 3;
+}
+
+.central-region-container {
+    line-height: 3;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    padding: 0 5%;
+
+}
+
+.keno-container {
+    line-height: 3;
+}
+
+.mega645 {
+    line-height: 3;
+    border-left: 2px solid gray;
+    padding-left: 5%;
+
+}

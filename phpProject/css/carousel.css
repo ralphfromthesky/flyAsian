@@ -1,37 +1,33 @@
-
 .carousel-container img {
     height: 50vh;
     width: 100%;
 }
-.main-carousel-container {
-    padding-bottom: 20%;
-}
-/* Style the container for the dots */
+
 .slick-dots {
     display: block;
     text-align: center;
     margin-top: 10px;
-    background-color: red;
+    top: 47vh;
+    height: 20px;
 }
 
-/* Style the individual dots */
 .slick-dots li {
     display: inline-block;
-    margin: 0 10px; /* Increase the margin for more spacing */
+    margin: 0 10px;
     cursor: pointer;
     height: 7px !important;
     width: 50px !important;
-    background-color: yellow; /* Change the background color to yellow */
+    background-color: white;
 }
-.slick-dots li button::before{
+
+.slick-dots li button::before {
     content: '' !important;
     height: 100px;
     width: 100px;
 }
 
-/* Style the active dot */
 .slick-dots li.slick-active {
-    background-color: white; /* Change the background color to white */
-    width: 50px; /* Increase the width to make it bigger */
-    height: 7px; /* Increase the height to make it bigger */
+    background-color: gray;
+    width: 50px;
+    height: 7px;
 }

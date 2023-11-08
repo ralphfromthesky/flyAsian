@@ -1,0 +1,60 @@
+.main-hoverSport-container {
+    padding: 0 13%;
+}
+.slick-carousel-hoverSport {
+    display: flex;
+}
+.hover-sport-container:hover .startPlaying-sport {
+    opacity: 1;
+    display: in;
+}
+.hover-sport-container {
+    position: relative;
+}
+    
+.brand-sport img {
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.model-sport img {
+    height: 30vh;
+}
+
+.sport-container h4 {
+    border: 2px solid gray;
+}
+
+.maximum {
+    text-align: center;
+    border: 2px solid gray;
+    margin: 10px 20px;
+    border-radius: 10px;
+}
+
+.startPlaying-sport {
+    height: 5vh;
+    width: 8vw;
+    background-color: #409eff;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    /* left: 2vw; */
+    opacity: 0;
+    cursor: pointer;
+    top: 10vh;
+}
+
+.startPlaying-sport i {
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+    color: gray;
+    margin-right: 5px;
+
+}
