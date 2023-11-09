@@ -8,6 +8,9 @@
         <?php include "include/subHeader.php" ?>
         <?php include "include/hover.php" ?>
         <?php include "include/carousel.php" ?>
+        <div class="customer-container-panel">
+            <?php include "include/customerServicePanel.php" ?>
+        </div>
         <?php include "include/body.php" ?>
         <?php include "include/appDownload.php" ?>
         <?php include "include/footer.php" ?>

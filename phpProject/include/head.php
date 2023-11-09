@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/hoverCardGame.css">
     <link rel="stylesheet" href="css/hoverFeaturedGame.css">
     <link rel="stylesheet" href="css/hoverLottery.css">
+    <link rel="stylesheet" href="css/customerServicePanel.css">
 
 
     <script src="https://code.jquery.com/jquery-3.7.1.js"

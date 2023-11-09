@@ -57,3 +57,8 @@
     background-color: #292e3b;
     width: 100%;
 }
+.customer-container-panel {
+    position: fixed;
+    top: 20vh;
+    right: 0;
+}

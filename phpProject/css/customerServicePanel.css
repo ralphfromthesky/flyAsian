@@ -1,0 +1,94 @@
+.main-customer-service-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 5vw;
+    background: rgba(0, 0, 0, .4);
+    padding: 15px;
+}
+
+
+.panel-container i {
+    font-size: 35px;
+    padding: 10px;
+    background-color: #5C59FF;
+    border-radius: 50%;
+    border: 2px solid white;
+    color: white;
+}
+
+.swithcButton button {
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.slideButtonContainer i {
+    font-size: 30px;
+}
+
+.panel-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(60, 62, 66, .9);
+    margin: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.swithcButton {
+    display: flex;
+}
+
+.panel-container:hover {
+    background-color: #5C59FF;
+    transition: .6s ease;
+    color: white;
+}
+.slideButtonContainer {
+    background: rgba(0, 0, 0, .4);
+    text-align: center;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+}
+.slideToLeft-container i{
+font-size: 40px;
+
+}
+ #slideToLeft {
+    position: absolute;
+    right: -10vw;
+    transition: .3s ease;
+    bottom: 30px;
+
+}
+#slidePanel {
+    transition: .6s ease;
+}
+.panelSlideRight {
+    transform: translateX(10vw);
+}
+.panelSlideRightLeft {
+    transform: translateX(-0);
+}
+.panelSlideleft {
+    transform: translateX(-11vw);
+}
+.panelSlideleftRight {
+    transform: translateX(-0);
+}
+.swithcButton #dark {
+    background-color: black;
+    border: 1px solid white;
+}
+.swithcButton #light {
+    background-color: white;
+    border: 1px solid black;
+
+}
+.swithcButton #light:hover {
+transform: translateX();
+}
