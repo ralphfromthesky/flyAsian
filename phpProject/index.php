@@ -4,8 +4,10 @@
 
 <body>
     <div class="main-body-container">
-        <?php include "include/header.php" ?>
-        <?php include "include/subHeader.php" ?>
+        <div class="fixedheader">
+            <?php include "include/header.php" ?>
+            <?php include "include/subHeader.php" ?>
+        </div>
         <?php include "include/hover.php" ?>
         <?php include "include/carousel.php" ?>
         <div class="customer-container-panel">

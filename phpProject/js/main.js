@@ -6,17 +6,23 @@ $(document).ready(function () {
     });
     $(".container-footer").append(imgElement);
   }
-
-  // let sportCont = $("#sportCont");
-  // let sportHover = $(".sportHover");
-  //for hoverSport
-
+  //for sportHover
   $("#sportCont").mouseenter(() => {
-    $(".sportHover").slideDown();
+    $(".sportHover").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
   $("#sportCont").mouseleave(() => {
-    $(".sportHover").slideUp();
+    $(".sportHover").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
   $(".sportHover").mouseenter(() => {
@@ -24,78 +30,125 @@ $(document).ready(function () {
   });
 
   $(".sportHover").mouseleave(() => {
-    $(".sportHover").slideUp();
+    $(".sportHover").stop().hide();
   });
 
   //for casino hover
-
   $("#hotContainer").mouseenter(() => {
-    $(".casinoHover ").slideDown();
+    $(".casinoHover").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
   $("#hotContainer").mouseleave(() => {
-    $(".casinoHover ").slideUp();
+    $(".casinoHover").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
-  $(".casinoHover ").mouseenter(() => {
-    $(".casinoHover ").stop();
+  $(".casinoHover").mouseenter(() => {
+    $(".casinoHover").stop();
   });
 
-  $(".casinoHover ").mouseleave(() => {
-    $(".casinoHover ").slideUp();
+  $(".casinoHover").mouseleave(() => {
+    $(".casinoHover").stop().hide();
   });
-
-
+  
   //for card game hover
   $("#cardgameHover").mouseenter(() => {
-    $(".hoverCardGame ").slideDown();
+    $(".hoverCardGame").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
   $("#cardgameHover").mouseleave(() => {
-    $(".hoverCardGame ").slideUp();
+    $(".hoverCardGame").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
   });
 
-  $(".hoverCardGame ").mouseenter(() => {
-    $(".hoverCardGame ").stop();
+  $(".hoverCardGame").mouseenter(() => {
+    $(".hoverCardGame").stop();
   });
 
-  $(".hoverCardGame ").mouseleave(() => {
-    $(".hoverCardGame ").slideUp();
+  $(".hoverCardGame").mouseleave(() => {
+    $(".hoverCardGame").stop().hide();
   });
 
-//for hover lucywin
-$("#lucky").mouseenter(() => {
-  $(".hoverFeaturedGame ").slideDown();
-});
+  //for hover lucywin
+    $("#lucky").mouseenter(() => {
+    $(".hoverFeaturedGame").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
+  });
 
-$("#lucky").mouseleave(() => {
-  $(".hoverFeaturedGame ").slideUp();
-});
+  $("#lucky").mouseleave(() => {
+    $(".hoverFeaturedGame").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
+  });
 
-$(".hoverFeaturedGame ").mouseenter(() => {
-  $(".hoverFeaturedGame ").stop();
-});
+  $(".hoverFeaturedGame").mouseenter(() => {
+    $(".hoverFeaturedGame").stop();
+  });
 
-$(".hoverFeaturedGame ").mouseleave(() => {
-  $(".hoverFeaturedGame ").slideUp();
-});
+  $(".hoverFeaturedGame").mouseleave(() => {
+    $(".hoverFeaturedGame").stop().hide();
+  });
 
-//for lottery hovert
+  //for lottery hovert
+  $("#lottery").mouseenter(() => {
+    $(".hoverLottery").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
+  });
 
-$("#lottery").mouseenter(() => {
-  $(".hoverLottery ").slideDown();
-});
+  $("#lottery").mouseleave(() => {
+    $(".hoverLottery").stop().animate(
+      {
+        height: "toggle",
+      },
+      200
+    );
+  });
 
-$("#lottery").mouseleave(() => {
-  $(".hoverLottery ").slideUp();
-});
+  $(".hoverLottery").mouseenter(() => {
+    $(".hoverLottery").stop();
+  });
 
-$(".hoverLottery ").mouseenter(() => {
-  $(".hoverLottery ").stop();
-});
+  $(".hoverLottery").mouseleave(() => {
+    $(".hoverLottery").stop().hide();
+  });
 
-$(".hoverLottery ").mouseleave(() => {
-  $(".hoverLottery ").slideUp();
-});
+
+
+
+
+
+
+
+
+
 
 });

@@ -1,16 +1,21 @@
 .hoverFeatured-container {
     padding: 0 13%;
-
 }
-/* .slick-carousel-hover-featuredGame {
+
+.slick-carousel-hover-featuredGame {
     display: flex;
-} */
-.main-hoverFeatureGame img{
+    border: 2px solid red;
+    width: 100% !important;
+}
+
+.main-hoverFeatureGame img {
     height: 15vh;
 }
+
 .hoverFeatureGame {
     text-align: center;
 }
+
 .hoverFeatureGame h4 {
     border: 2px solid gray;
     padding: 2px;

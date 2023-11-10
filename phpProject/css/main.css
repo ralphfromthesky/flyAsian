@@ -20,6 +20,7 @@
     z-index: 1;
     background-color: #292e3b;
     width: 100%;
+    top: 18vh;
 
 
 }
@@ -30,8 +31,7 @@
     z-index: 1;
     background-color: #292e3b;
     width: 100%;
-
-
+    top: 18vh;
 }
 
 .hoverCardGame {
@@ -40,6 +40,7 @@
     z-index: 1;
     background-color: #292e3b;
     width: 100%;
+    top: 18vh;
 
 
 }
@@ -49,6 +50,8 @@
     z-index: 1;
     background-color: #292e3b;
     width: 100%;
+    top: 18vh;
+
 }
 .hoverLottery {
     display: none;
@@ -56,6 +59,8 @@
     z-index: 1;
     background-color: #292e3b;
     width: 100%;
+    top: 18vh;
+
 }
 .customer-container-panel {
     position: fixed;
