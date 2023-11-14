@@ -22,6 +22,8 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.7/slick-theme.css">
     <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
-</body>
+    <script src="/js/jquery.i18n.properties.js"></script>
+    <script src="/js/language.js?v=1.121"></script>
 
+</body>
 </html>

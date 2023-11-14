@@ -4,73 +4,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Transform Origin and Rotation Example</title>
     <style>
-        /* Defines the width of the carousel and centers it on the page */
-        .slick-carousel {
-            margin: 0 auto;
-            width: 1000px;
+        .square {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+            /* transform: rotate(45deg); */
+            transform-origin: top top;
+            transition: transform 1s ease-in-out;
+            /* Adding a transition for smooth animation */
         }
 
-        /* The width of each slide */
-        .slick-slide {
-            width: 350px;
+        .square:hover {
+            transform: rotate(360deg);
+            /* Rotating to a different angle on hover */
         }
-        .slick-dots li button:before {
-            content: 'ralph'!important;
-            height: 100px !important;
-            width: 100px !important;
-        }
-
-        /* Color of the arrows */
-        .slick-next::before,
-        .slick-prev::before {
-            color: blue !important;
-        }
-        div img {
-            transform: matrix(0.52381, 0, 0, 0.52381, -50, -30);
-        }
+        .main {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }   
     </style>
 </head>
 
 <body>
-    <!-- Create your own class for the containing div -->
-    <div class="slick-carousel">
-        <!-- Inside the containing div, add one div for each slide -->
-        <div>
-            <!-- You can put an image or text inside each slide div -->
-            <img src="http://placekitten.com/g/320/240">
-        </div>
-        <div>
-            <img src="http://placekitten.com/g/320/240">
-        </div>
-        <div>
-            <img src="http://placekitten.com/g/320/240">
-        </div>
-        <div>
-            <img src="http://placekitten.com/g/320/240">
-        </div>
-        <div>
-            <img src="http://placekitten.com/g/320/240">
-        </div>
+    <div class="main">
+        <div class="square"></div>
     </div>
-
-    <div class="div">
-
-        <img src="/images/logo10.png" alt="">
-    </div>
-
-    <script>
-        $(document).ready(function () {
-            $('.slick-carousel').slick({
-                infinite: true,
-                slidesToShow: 3,
-                slidesToScroll: 1,
-                arrows: true,
-                dots: true
-            });
-        });
-    </script>
 </body>
 
 </html>

@@ -4,31 +4,38 @@
     padding: 0 13%;
 
 }
+
 .slick-carousel-subHeader {
     white-space: nowrap;
 }
+
 .subHeader-container {
-    padding: 15px;
     position: relative;
-    white-space: nowrap;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    transition: border-color 0.3s ease;
+    color: rgb(144, 162, 220);
 }
+
 .subHeader-container i {
-padding-right: 5px;
+    padding-right: 5px;
+    font-size: 20px;
 }
 
 .subHeader-container img {
     position: absolute;
     height: 30px;
     top: 0;
-    right: 3vw;
+    right: 1vw;
     transform-origin: top center;
     animation: wobble-hor-top 2s ease-in-out infinite;
 }
 
 .subHeader-container:hover {
     background-color: #5C59FF;
-    border: 1px solid white;
     color: white;
+    border-color: #fff;
 }
 
 .subHeader-container h4 {

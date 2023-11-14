@@ -1,5 +1,6 @@
 .main-header {
     padding: 0 13%;
+    color: rgb(144, 162, 220);
 }
 .header-container {
     display: flex;
@@ -27,6 +28,9 @@
     list-style: none;
     white-space: nowrap;
     padding: 7px;
+    margin-right: 5px;
+}
+li i {
     margin-right: 5px;
 }
 
@@ -63,13 +67,12 @@
     background-color: #1e222c;
     color: white;
     border-radius: 15px;
-    padding: 4px;
+    padding: 10px;
     border: 2px solid #5b7cfe;
 }
-
-button .material-symbols-outlined {
+button i {
     color: #5b7cfe;
-    padding-right: 5px;
+    margin-right: 5px;
 }
 
 input::placeholder {

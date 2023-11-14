@@ -1,8 +1,8 @@
 <div class="main-appDownload-container">
     <div class="appDownload-container">
-        <h2>DOWNLOAD APP TO YOUR PHONE. BET ANYTIME ANYWHERE</h2> <br>
-        <h5>An App application that integrates various games and easy operations..</h5>
-        <h5>The newest and most complete gamee series, scan the code below to download now!</h5>
+        <h2>TẢI ỨNG DỤNG VỀ ĐIỆN THOẠI. CƯỢC BẤT CỨ KHI NÀO, Ở MỌI NƠI</h2> <br>
+        <h5>Một ứng dụng tích hợp nhiều trò chơi và thao tác đơn giản.</h5>
+        <h5>Bộ sưu tập trò chơi mới nhất và đầy đủ nhất, quét mã dưới đây để tải ngay!</h5>
     </div>
 
     <div class="QRcode-container">
@@ -17,5 +17,4 @@
             <p>DOWNLOAD <br> ANDROID </p>
         </div>
     </div>
-
 </div>
