@@ -72,15 +72,11 @@ font-size: 40px;
 .panelSlideRight {
     transform: translateX(10vw);
 }
-.panelSlideRightLeft {
-    transform: translateX(-0);
-}
+
 .panelSlideleft {
     transform: translateX(-11vw);
 }
-.panelSlideleftRight {
-    transform: translateX(-0);
-}
+
 .swithcButton #dark {
     background-color: black;
     border: 1px solid white;

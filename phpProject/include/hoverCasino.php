@@ -12,7 +12,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -27,7 +27,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -42,7 +42,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -57,7 +57,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -72,7 +72,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -87,7 +87,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -102,7 +102,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hoverCasino-container">
@@ -117,7 +117,7 @@
             </div>
             <div class="startPlaying">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
     </div>

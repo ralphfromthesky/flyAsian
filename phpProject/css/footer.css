@@ -9,6 +9,9 @@
 .container-footer img {
     height: 60px;
     max-width: 100%;
+    transition: .3s ease;
+    cursor: pointer;
+
 }
 .footer-paragraph {
     color: grey;
@@ -23,6 +26,9 @@
     height:  80px;
     max-width: 100%;
 }
+.container-footer img:hover {
+    transform: scale(1.2);
+}
 .footer-contact {
 display: flex;
 justify-content: center;
@@ -30,7 +36,4 @@ justify-content: center;
 .footer-contact h4 {
     margin: 20px 20px;
     cursor: pointer;
-}
-.footer-logo h5 {
-    margin: 10px 0;
 }

@@ -12,6 +12,8 @@
     /* padding: 0 13%; */
     color: #8491a5;
     position: relative;
+    padding: 0;
+    margin: 0;
 }
 
 .sportHover {
@@ -64,6 +66,11 @@
 }
 .customer-container-panel {
     position: fixed;
-    top: 20vh;
+    top: 18vh;
     right: 0;
 }
+/* .fixedheader {
+    border: 2px solid red;
+    position: fixed;
+    top: 0;
+} */

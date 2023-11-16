@@ -1,7 +1,10 @@
 <div class="main-sport-container">
-    <div class="sport-header-container">
+<div class="featuredGame-header-container">
         <img src="/images/logo27.png" id="arrow">
-        <img src="/images/logo28.png">
+        <div class="headerTitle-sport">
+            <img src="/images/logo28.png">
+            <h3>tro chơi thể thao</h3>
+        </div>
         <img src="/images/logo29.png" id="arrow">
     </div>
     <div class="slick-carousel">

@@ -9,6 +9,7 @@
     align-items: center;
     text-align: center;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 .featuredGameContainer h4 {
@@ -16,6 +17,10 @@
     bottom: 0;
     background-color: #3e3f45;
     width: 100%;
+}
+.featuredGameContainer:hover h4 {
+    background-color: #5b7cfe;
+    border-radius: 0 20px;
 }
 
 .featuredGameContainer button {
@@ -55,15 +60,6 @@
     position: relative;
 }
 
-
-.featuredGame-header-container::before {
-    content: "Featured Game";
-    position: absolute;
-    top: 17px;
-    left: 34vw;
-    color: #fff;
-}
-
 .featuredGame-header-container {
     display: flex;
     justify-content: center;
@@ -73,13 +69,21 @@
 .featuredGame-header-container #arrow {
     height: 4vh;
 }
+.headerTitle h3 {
+    position: absolute;
+    color: #fff;
+    top: 20px;
+    right: 50px;
+}
+.headerTitle {
+    position: relative;
+}
 
 .featuredGame-header-container img {
     height: 6vh;
 }
 
 /* animation  */
-
 
 /* .featuredGameContainerssss {
     width: 26em;

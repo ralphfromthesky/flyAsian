@@ -8,11 +8,11 @@
                 <img src="/images/logo101.png" alt="">
             </div>
             <div class="cardGame-maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-cardGame">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="cardGame-container">
@@ -23,11 +23,11 @@
                 <img src="/images/logo102.png" alt="">
             </div>
             <div class="cardGame-maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-cardGame">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="cardGame-container">
@@ -38,11 +38,11 @@
                 <img src="/images/logo103.png" alt="">
             </div>
             <div class="cardGame-maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-cardGame">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="cardGame-container">
@@ -53,11 +53,11 @@
                 <img src="/images/logo104.png" alt="">
             </div>
             <div class="cardGame-maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-cardGame">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="cardGame-container">
@@ -68,11 +68,11 @@
                 <img src="/images/logo105.png" alt="">
             </div>
             <div class="cardGame-maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-cardGame">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
 

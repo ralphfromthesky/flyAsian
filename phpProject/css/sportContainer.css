@@ -4,13 +4,10 @@
             width: inherit;
         }
 
-
-        /* The width of each slide */
         .slick-slide {
             width: 100%;
         }
 
-        /* Color of the arrows */
         .slick-next::before,
         .slick-prev::before {
             color: rgb(146, 139, 139) !important;
@@ -34,8 +31,17 @@
         .sport-header-container img {
             height: 6vh;
         }
+        .headerTitle-sport h3 {
+            position: absolute;
+            color: #fff;
+            top: 20px;
+            right: 50px;
+        }
+        .headerTitle-sport {
+            position: relative;
+        }
         .sport-header-container::before {
-            content: "SPORT Game";
+            content: "tro chơi thể thao";
             position: absolute;
             top: 17px; 
             left: 34vw; 

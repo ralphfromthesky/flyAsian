@@ -1,7 +1,10 @@
 <div class="main-sport-container">
-    <div class="casino-header-container">
+    <div class="featuredGame-header-container">
         <img src="/images/logo27.png" id="arrow">
-        <img src="/images/logo28.png">
+        <div class="headerTitle-casino">
+            <img src="/images/logo28.png">
+            <h3>trò chơi sòng bạc</h3>
+        </div>
         <img src="/images/logo29.png" id="arrow">
     </div>
     <div class="slick-carousel-casino">

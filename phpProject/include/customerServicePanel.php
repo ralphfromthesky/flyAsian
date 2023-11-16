@@ -36,15 +36,13 @@
         $('#slideToRight').click(() => {
             $('#slidePanel').toggleClass('panelSlideRight');
             $('#slideToLeft').toggleClass('panelSlideleft');
-            console.log('fasdfasdfasdfsdf')
+        });
 
-        })
         $('#slideToLeft').click(() => {
-            $('#slidePanel').toggleClass('panelSlideRightLeft').css('z-index', 2)
-            $('#slideToLeft').toggleClass('panelSlideleftRight').css('z-index', 1)
-            console.log('fasdfasdfasdfsdf')
-        })
+            $('#slidePanel').toggleClass('panelSlideRight');
+            $('#slideToLeft').toggleClass('panelSlideleft');
 
+        });
 
         const applyStyles = (themes) => {
             if (themes === 'dark') {
@@ -120,6 +118,13 @@
                     'background': 'white',
                     'border': '2px solid #dddada'
                 });
+                $('.main-form input').css('color', 'black');
+                $('.headerTitle h3').css('color', 'black')
+                $('.headerTitle-sport h3').css('color', 'black')
+                $('.headerTitle-casino h3').css('color', 'black')
+
+
+
             } else {
                 $('.main-body-container, .main-subHeader-container').css('background-color', '');
                 $('.logInDetail2 li, .main-form input, .buttonLogin button').css({
@@ -150,6 +155,11 @@
                     'background': '',
                     'border': ''
                 });
+                $('.main-form input').css('color', 'white');
+                $('.headerTitle h3 .headerTitle-casino h3 .headerTitle-sport h3').css('color', 'red')
+                $('.headerTitle h3').css('color', 'white')
+                $('.headerTitle-casino h3').css('color', 'white')
+                $('.headerTitle-sport h3').css('color', 'white')
             }
         }
 

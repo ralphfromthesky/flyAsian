@@ -9,7 +9,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                        
                     </div>
@@ -18,7 +18,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     
                     </div>
@@ -29,7 +29,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -37,7 +37,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -55,7 +55,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -73,7 +73,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -91,7 +91,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -110,7 +110,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -128,7 +128,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -146,7 +146,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -164,7 +164,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -182,7 +182,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -200,7 +200,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -218,7 +218,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@
                         <h4>OVER/UNI</h4>
                          <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                     <div class="hoverFeatureGame">
@@ -236,7 +236,7 @@
                         <h4>OVER/Under MD5</h4>
                             <div class="hover-startPlaying">
                             <i class="fa-solid fa-play"></i>
-                            <small>Start Playing</small>
+                            <small>Bắt đầu chơi</small>
                         </div>
                     </div>
                 </div>

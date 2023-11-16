@@ -48,10 +48,18 @@
             slidesToShow: 11,
             slidesToScroll: 1,
             arrows: true,
-            dots: false
+            dots: false,
+            responsive: [
+                {
+                    breakpoint: 430,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                        infinite: true,
+                        dots: false
+                    }
+                }
+            ]
         });
     });
 </script>
-
-
-

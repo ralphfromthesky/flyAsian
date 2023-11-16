@@ -8,11 +8,11 @@
                 <img src="/images/logo30.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hover-sport-container">
@@ -23,11 +23,11 @@
                 <img src="/images/logo33.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hover-sport-container">
@@ -38,11 +38,11 @@
                 <img src="/images/logo36.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hover-sport-container">
@@ -53,11 +53,11 @@
                 <img src="/images/logo38.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hover-sport-container">
@@ -68,11 +68,11 @@
                 <img src="/images/logo40.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
         <div class="hover-sport-container">
@@ -83,11 +83,11 @@
                 <img src="/images/logo42.png" alt="">
             </div>
             <div class="maximum">
-                <h4>Maximu refund fee 1.5%</h4>
+                <h4>Phí hoàn tiền tối đa 1,5%</h4>
             </div>
             <div class="startPlaying-sport">
                 <i class="fa-solid fa-play"></i>
-                <small>Start Playing</small>
+                <small>Bắt đầu chơi</small>
             </div>
         </div>
     </div>
